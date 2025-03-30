@@ -1,0 +1,7 @@
+id = "mirage"
+name = "Mirage"
+version = "1.0.0"
+schema_version = 1
+authors = ["Graikos Parmenion"]
+description = "A dark blue theme for Zed"
+repository = "https://github.com/parmeniong/zed-mirage"
