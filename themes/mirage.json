@@ -148,9 +148,6 @@
           },
           "punctuation": {
             "color": "#595980"
-          },
-          "punctuation.list_marker": {
-            "color": "#ff0000"
           }
         }
       }
